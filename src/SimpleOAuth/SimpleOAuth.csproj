@@ -1,13 +1,20 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
-
   <PropertyGroup>
     <TargetFramework>netcoreapp1.1</TargetFramework>
-    <Version>0.9</Version>
+    <PackageVersion>0.9</PackageVersion>
+    <PackageId>SimpleOAuth.DotNetCore</PackageId>
+    <Title>OAuth for the .Net Core framework</Title>
     <Description>OAuth for the .Net Core framework - made super easy</Description>
+    <Authors>bulankou</Authors>
+    <PackageLicenseUrl>https://github.com/AlexBulankou/SimpleOAuth.Net/blob/master/LICENSE</PackageLicenseUrl>
+    <PackageProjectUrl>https://github.com/AlexBulankou/SimpleOAuth.Net</PackageProjectUrl>
+    <PackageIconUrl>https://github.com/AlexBulankou/SimpleOAuth.Net/blob/master/src/SimpleOAuth/icon.png</PackageIconUrl>
+    <PackageReleaseNotes>Initial NuGet release</PackageReleaseNotes>
+    <Copyright>Copyright 2017-2020</Copyright>
+    <PackageTags>oauth;simpleoauth;simpleoauth.net;dotnetcore;.net core</PackageTags>
+    <RepositoryUrl>https://github.com/AlexBulankou/SimpleOAuth.Net</RepositoryUrl>
   </PropertyGroup>
-
   <ItemGroup>
-  <PackageReference Include="System.ComponentModel.Primitives" Version="4.3.0" />
+    <PackageReference Include="System.ComponentModel.Primitives" Version="4.3.0" />
   </ItemGroup>
-
 </Project>
