@@ -8,7 +8,7 @@
     <Authors>bulankou</Authors>
     <PackageLicenseUrl>https://github.com/AlexBulankou/SimpleOAuth.Net/blob/master/LICENSE</PackageLicenseUrl>
     <PackageProjectUrl>https://github.com/AlexBulankou/SimpleOAuth.Net</PackageProjectUrl>
-    <PackageIconUrl>https://github.com/AlexBulankou/SimpleOAuth.Net/blob/master/src/SimpleOAuth/icon.png</PackageIconUrl>
+    <PackageIconUrl>https://raw.githubusercontent.com/AlexBulankou/SimpleOAuth.Net/master/src/SimpleOAuth/icon.png</PackageIconUrl>
     <PackageReleaseNotes>Initial NuGet release</PackageReleaseNotes>
     <Copyright>Copyright 2017-2020</Copyright>
     <PackageTags>oauth;simpleoauth;simpleoauth.net;dotnetcore;.net core</PackageTags>
