@@ -1,4 +1,5 @@
 # Simple OAuth for .NET Core
+[![Build Status](https://travis-ci.org/AlexBulankou/SimpleOAuth.Net.svg?branch=master)](https://travis-ci.org/AlexBulankou/SimpleOAuth.Net)    
 
 Example:
 ```
