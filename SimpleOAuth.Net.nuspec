@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>SimpleOAuth.Net for .NET Core</id>
+    <version>0.9</version>
+    <authors>Alex Bulankou</authors>
+    <owners>Alex Bulankou</owners>
+    <licenseUrl>https://github.com/AlexBulankou/SimpleOAuth.Net/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/AlexBulankou/SimpleOAuth.Net</projectUrl>
+    <iconUrl></iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Simple OAuth for the .Net Core - made super easy.</description>
+    <releaseNotes>Initial NuGet release</releaseNotes>
+    <copyright>Copyright 2017-2020</copyright>
+    <tags>oauth simpleoauth simpleoauth.net dotnetcore .net core</tags>
+  </metadata>
+  <files>
+    <file src="src\SimpleOauth\bin\Release\*.*" target="lib\netcoreapp1.1" /> 
+  </files>
+</package>

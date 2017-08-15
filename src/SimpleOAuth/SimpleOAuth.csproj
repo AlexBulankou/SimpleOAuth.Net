@@ -2,6 +2,7 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp1.1</TargetFramework>
+    <Version>0.9</Version>
     <Description>OAuth for the .Net Core framework - made super easy</Description>
   </PropertyGroup>
 
